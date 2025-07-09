@@ -3,3 +3,7 @@
 
 - git branch <tên-nhánh> : tạo nhánh mới. (nhưng chưa chuyển qua nhánh đó để làm việc)
   Ví dụ: git branch feature/header (tạo nhánh để làm header)
+
+- git switch <tên-nhánh>: chuyển đổi nhánh (cách mới)
+  hoặc
+- git checkout <tên-nhánh>: chuyển đổi nhánh (cách cũ)
